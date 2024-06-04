@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+outputs/
+*.py[cod]
+*$py.class
+.idea/
+*.pyc
+*.tar
+.DS_Store
+filelist/
+*.csv
+*.pth
+.ipynb_checkpoints
+.vscode
+.idea
+*.pyc
+build
+dist
+*.egg-info
